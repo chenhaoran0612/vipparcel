@@ -1,7 +1,6 @@
 {
     "name": "chenhaoran/vipparcel-client-php",
-    "description": "chenhaoran/vipparcel-client-php",
-    "type": "composer-plugin",
+    "description": "vipparcel",
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
