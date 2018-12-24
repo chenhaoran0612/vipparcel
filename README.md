@@ -17,7 +17,7 @@ https://vipparcel.com/docs/api/
 Run the Composer command
 
 ```bash
-composer require "vipparcel/client" 
+composer require 'chenhaoran/vipparcel-client-php'
 ```
 
 ## Examples ##
