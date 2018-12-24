@@ -4,7 +4,7 @@ class VP_Response {
 
     protected $_response;
 
-    public function __construct(\Guzzle\Http\Message\Response $response)
+    public function __construct($response)
     {
         $this->_response = $response;
     }
