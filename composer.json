@@ -5,7 +5,6 @@
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
-    "license": "master",
     "authors": [
         {
             "name": "chenhaoran",
