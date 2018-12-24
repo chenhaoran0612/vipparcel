@@ -9,5 +9,6 @@
             "name": "chenhaoran",
             "email": "chrloveyou@126.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
